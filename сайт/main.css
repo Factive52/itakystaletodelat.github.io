@@ -1,0 +1,10 @@
+body {background-color:#d6c5c5}
+a {
+        background color: #221fde;
+        color: #0f0c0c;
+        padding: 10px;
+        text-decoration: none;
+        font-weight: bold;
+        border-left: 5px solid #11f027;
+        display: block;
+      }
